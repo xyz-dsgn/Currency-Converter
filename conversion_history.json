@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2026-05-04 14:28:17",
+    "amount": 10000.0,
+    "from_currency": "RUB",
+    "to_currency": "EUR",
+    "result": 113.7,
+    "rate": 0.01137
+  },
+  {
+    "timestamp": "2026-05-04 14:28:12",
+    "amount": 124563.0,
+    "from_currency": "RUB",
+    "to_currency": "EUR",
+    "result": 1416.28131,
+    "rate": 0.01137
+  },
+  {
+    "timestamp": "2026-05-04 14:28:02",
+    "amount": 123.0,
+    "from_currency": "USD",
+    "to_currency": "EUR",
+    "result": 104.8083,
+    "rate": 0.8521
+  },
+  {
+    "timestamp": "2026-05-04 14:27:59",
+    "amount": 124532.0,
+    "from_currency": "USD",
+    "to_currency": "EUR",
+    "result": 106113.7172,
+    "rate": 0.8521
+  },
+  {
+    "timestamp": "2026-05-04 14:27:54",
+    "amount": 100.0,
+    "from_currency": "USD",
+    "to_currency": "EUR",
+    "result": 85.21,
+    "rate": 0.8521
+  }
+]
